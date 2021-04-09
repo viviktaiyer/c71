@@ -1,0 +1,31 @@
+.travel_section{ 
+border: 1px solid #c7c7c7;
+padding-left: 0px;
+padding-right: 0px;
+float: none;
+}
+.travel_section img{
+width: 700px;  
+height:500px ;
+}
+.environment_li
+{
+  margin-top: 13px;
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+  border-radius: 25px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
+
